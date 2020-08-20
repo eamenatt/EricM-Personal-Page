@@ -1,0 +1,31 @@
+.cardtitle {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+
+body {
+ background-image: url('https://wallpaperaccess.com/full/1892788.jpg');
+}
+
+.containerstyle {
+    margin: 5%;
+    width: 50%;
+    height: auto;
+    background-color: white;
+    border-radius: 15px 50px 30px 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #343a40;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%
+  }
+  
+.cardstyle {
+    padding: 5px;
+}
