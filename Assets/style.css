@@ -65,8 +65,6 @@ li {
 }
 
 .resumeText {
-    border: palegreen;
-    border-radius: 15px;
-    border-color: red;
-    border-width: 3px;
+    font-size: larger;
+    
 }
