@@ -58,3 +58,15 @@ img {
 #aboutMetext {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+li {
+    list-style: none;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.resumeText {
+    border: palegreen;
+    border-radius: 15px;
+    border-color: red;
+    border-width: 3px;
+}
